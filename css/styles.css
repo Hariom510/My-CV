@@ -1,0 +1,46 @@
+
+
+
+hr {
+border-style: dotted none none;
+width: 5%;
+border-color: #778899;
+border-width: 5px;
+
+}
+h1 {
+  color: #87cefa;
+}
+
+h2 {
+  color : #87cefa;
+}
+
+h3 {
+  color: #87cefa;
+}
+body {
+  background-color: #faebd7;
+}
+
+.hariom{
+  background-color: red;
+
+}
+
+
+
+.kui
+{
+  border-radius: 100%;
+}
+.apple{
+  background-color: green;
+}
+.apple:hover{
+  background-color: gold;
+}
+
+#hari{
+  background-color: pink;
+}
